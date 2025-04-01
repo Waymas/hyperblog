@@ -9,6 +9,10 @@ body{
     width: 850px;
     margin: 0 auto;
 }
+#cabecera{
+    color: blueviolet;
+    border: 1px solid greenyellow;
+}
 #post{
     color:maroon
 }
