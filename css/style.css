@@ -12,6 +12,8 @@ body{
 #cabecera{
     color: blueviolet;
     border: 1px solid greenyellow;
+    text-align: center;
+    padding: 5px;
 }
 #post{
     color:maroon
