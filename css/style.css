@@ -18,3 +18,9 @@ body{
 #post{
     color:maroon
 }
+#footer{
+    color:pink;
+    text-align: center;
+    padding: 4px;
+    background-color: antiquewhite;
+}
