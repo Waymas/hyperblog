@@ -12,3 +12,5 @@ Prueba 1
 Prueba 2
 
 hoy hablaremos de lo pilin que soy xd
+
+rebase a los cambios(otra rama) y después a la rama final
