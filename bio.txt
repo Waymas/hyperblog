@@ -15,3 +15,4 @@ hoy hablaremos de lo pilin que soy xd
 
 rebase a los cambios(otra rama) y después a la rama final
 git stash esta padre, hay que usarlo para guardar temporalmente los cambios
+git clean solo borra las cosas que puede indexar
